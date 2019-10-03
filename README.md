@@ -14,5 +14,13 @@ __Внешнее описание__
  https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%8F_%D0%BA%D0%BE%D1%88%D0%BA%D0%B0
   ### Почта 
 <alexandrapelip@gmail.com>
+ ##### Таблица
+ 1|2|3
+Русская|:Голубая:|Кошка:
+ надеюсь|сейчас|ничего не вылетит
+ и это|всё|не зря
+ нужно|ли|продолжать
+ чтобы|таблица|была больше? 
+ неверное|нет|точка. 
 
 ![Русская голубая](https://upload.wikimedia.org/wikipedia/commons/3/3a/Russian_Blue_cat.jpg)
